@@ -1,0 +1,25 @@
+.{
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding:12px;
+}
+
+.container {
+  display: flex;
+  gap: 12px;
+}
+.user {
+  border: 1px dashed;
+  margin: 12px;
+  flex: 1;
+  padding: 12px;
+}
+
+
+
+
+
+
+
